@@ -8,11 +8,11 @@ Features:
 
 Admin Functions:
 
-Add/Edit/Delete books
-Manage categories
-View all users
-Approve/reject book requests
-Generate reports
+Add/Edit/Delete books 
+Manage categories 
+View all users 
+Approve/reject book requests 
+Generate reports 
 
 User Functions:
 
