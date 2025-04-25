@@ -9,15 +9,23 @@ Features:
 Admin Functions:
 
 Add/Edit/Delete books 
+
 Manage categories 
+
 View all users 
+
 Approve/reject book requests 
+
 Generate reports 
 
 User Functions:
 
 Register/Login
+
 Browse/search books
+
 Request books
+
 View borrowing history
+
 Return books
