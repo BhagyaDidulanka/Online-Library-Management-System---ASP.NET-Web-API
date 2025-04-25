@@ -1,8 +1,8 @@
-﻿using LibraryManagementAPI.Models;
+﻿using Library_Management_System.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace LibraryManagementAPI.Data
+namespace Library_Management_System.Data
 {
     public class LibraryContext : IdentityDbContext<User>
     {

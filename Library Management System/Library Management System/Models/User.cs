@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.ComponentModel.DataAnnotations;
 
-namespace LibraryManagementAPI.Models
+namespace Library_Management_System.Models
 {
     public class User : IdentityUser
     {
